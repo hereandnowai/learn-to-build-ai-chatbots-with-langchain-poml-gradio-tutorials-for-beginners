@@ -1,0 +1,18 @@
+{
+  "repo_name": "learn-to-build-ai-chatbots-with-langchain-poml-gradio-tutorials-for-beginners",
+  "version": "1.0.0",
+  "description": "Tutorial series for building AI chatbots using LangChain, POML, and Gradio frameworks",
+  "github_page": "https://github.com/hereandnowai/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hereandnowai/learn-to-build-ai-chatbots-with-langchain-poml-gradio-tutorials-for-beginners.git"
+  },
+  "keywords": ["chatbot", "ai", "langchain", "poml", "gradio", "tutorial"],
+  "author": "hereandnowai",
+  "license": "MIT",
+  "dependencies": {
+    "python": "^3.13.0",
+    "langchain": "3.0",
+    "gradio": "latest"
+  }
+}
