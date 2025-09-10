@@ -1,0 +1,2 @@
+langchain==3.0
+gradio
