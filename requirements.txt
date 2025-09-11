@@ -1,2 +1,14 @@
-langchain==3.0
+langchain
+langchain-google-genai
+langchain-community
+langchain-huggingface
 gradio
+sentence-transformers
+torch
+transformers
+faiss-cpu
+python-dotenv
+requests
+pypdf
+beautifulsoup4
+lxml
